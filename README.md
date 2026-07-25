@@ -58,6 +58,13 @@ The fiqh evidence base for wudu:
 
 - [Section 02: Conditions of Wudu](reference/section-02-conditions/README.md)
 ---
+## Research Documents
+
+- [Phase 01 Draft](phase%2001%20draft1.MD)
+
+- [Draft 01](draft%2001.md)
+
+  ---
 
 ## Current Status
 
