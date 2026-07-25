@@ -50,7 +50,13 @@ analysis/
 data/
 docs/
 ```
+## Fiqh Foundation
 
+The fiqh evidence base for wudu:
+
+- [Section 01: Definition, Virtues, and Rulings](reference/section-01-definition-virtues-and-rulings/README.md)
+
+- [Section 02: Conditions of Wudu](reference/section-02-conditions/README.md)
 ---
 
 ## Current Status
